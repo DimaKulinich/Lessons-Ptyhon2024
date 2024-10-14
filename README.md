@@ -1,2 +1,2 @@
-# Lessons-Ptyhon2024
+# Lessons-Python2024
 Some interesting project's 
